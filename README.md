@@ -166,5 +166,4 @@ Les services sont configurés via des variables d'environnement, garantissant fl
 - Ajout de tests automatisés pour chaque service.
 
 ---
-*📌 Remarque : N'ajoutez jamais le fichier `.env` dans un commit afin de protéger les informations sensibles.*
 
